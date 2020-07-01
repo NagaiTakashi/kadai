@@ -1,0 +1,9 @@
+#野球をしたい
+
+#要るもの
+
+-ball
+-bat
+-globe
+-base
+-human

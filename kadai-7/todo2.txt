@@ -1,0 +1,7 @@
+#テニスがしたい
+
+#必要なもの
+-ball
+-racket
+-ground
+-net
